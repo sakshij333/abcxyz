@@ -26,4 +26,4 @@ public class LinearSearch {
     }
 }
 
-command:- LinearSearch.demo[3];
+command:- LinearSearch.demo(3);
