@@ -25,3 +25,5 @@ public class LinearSearch {
     }
     }
 }
+
+command:- LinearSearch.demo[3];
