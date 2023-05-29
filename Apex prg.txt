@@ -1,0 +1,19 @@
+public class OddEvenChecker {
+    public static void main(String []args)
+    {
+        Integer num = 42; // Replace 42 with the desired number
+        
+        if (Math.mod(num, 2) == 0)
+        {
+            System.debug(num + ' is even.');
+        }
+        else
+        {
+            System.debug(num + ' is odd.');
+        }
+    }
+}
+
+For execution:-
+1) go to debug -> open execute anonymous window 
+->In enter Apex code(OddEvenChecker.main(null);) -> execute ->Debug Only
